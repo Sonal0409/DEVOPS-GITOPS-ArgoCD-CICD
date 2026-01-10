@@ -1,6 +1,6 @@
 
 name: CICD with ArgoCD
-on: push 
+on: workflow_dispatch
 jobs:
  cicd:
   env:
