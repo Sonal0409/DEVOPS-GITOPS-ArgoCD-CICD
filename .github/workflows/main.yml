@@ -1,5 +1,5 @@
 name: CICD with Maven, Docker, Argo, kubernetes
-on: push
+on: workflow_dispatch
 permissions: 
   contents: write
 jobs:
